@@ -94,6 +94,18 @@
           width: 75vw;
           margin: 10vw;
       }
+       .img{
+        width: 740px;
+        height: 560px;
+        background:url('chitti.jpeg')no-repeat;
+      background-size: cover;
+     margin: auto;
+      place-items:center;
+    
+
+    
+    
+      }
   }
   /* .chatwindow{
     width:400px;
