@@ -95,9 +95,9 @@
           margin: 10vw;
       }
        .img{
-        width: 740px;
-        height: 560px;
-        background:url('chitti.jpeg')no-repeat;
+        width: 600px;
+        height: 500px;
+        background:url('chitti.jpg')no-repeat;
       background-size: cover;
      margin: auto;
       place-items:center;
